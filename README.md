@@ -18,7 +18,6 @@ Eu sou o Douglas, trabalho como Desenvolveodr de Software utilizando a linguagem
   <a target="_blank" href="https://www.instagram.com/invites/contact/?i=1wgvs5ud4skwu&utm_content=11wf84k"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </div>
 
-##
 
 <div>
   <img height="180em" width="350px" align="center" src="https://github-readme-stats.vercel.app/api?username=douglas-devinhouse&show_icons=true&theme=dark&count_private=true&include_all_commits=false"/>  
@@ -26,9 +25,6 @@ Eu sou o Douglas, trabalho como Desenvolveodr de Software utilizando a linguagem
 </div>
 
 ##
-
-
-
 ## Sobre o Curso DEVinHouse - Softplan
 
 ### Módulo 1
@@ -43,7 +39,7 @@ Conceitos fundamentais da WEB, passando por tudo que é necessário para dominar
   <img heigth="96px" width="96px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
 
-
+##
 ### Módulo 2
 
 Aprendendo do C# ao .Net Core e SQL para dominar tudo que é necessário para criar soluções robustas no backend, além de testes e documentação. Também é abordado nesse módulo práticas em metodologias ágeis com a aplicação de mini-sprints semanais.
@@ -54,7 +50,7 @@ Aprendendo do C# ao .Net Core e SQL para dominar tudo que é necessário para cr
 <img heigth="96px" width="96px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </div>
 
-
+##
 ### Módulo 3
 
 Para finalizar, neste último módulo teremos a unificação de frontend e backend com o aprofundamento no ciclo de desenvolvimento completo dominando Docker e RabbitMQ, me oficializando como um Fullstack Developer.
