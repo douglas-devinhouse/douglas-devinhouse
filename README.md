@@ -14,8 +14,8 @@ Eu sou o Douglas e este é o meu perfil no <strong>Linked</strong><a href="https
 </div>
 
 <div>
-  <img height="180em" width="300px" align="center" src="https://github-readme-stats.vercel.app/api?username=douglas-devinhouse&show_icons=true&theme=dark&count_private=true&include_all_commits=true"/>  
-  <img height="180em" width="300px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglas-devinhouse&layout=compact&langs_count=16&theme=dark"/>  
+  <img height="180em" width="350px" align="center" src="https://github-readme-stats.vercel.app/api?username=douglas-devinhouse&show_icons=true&theme=dark&count_private=true&include_all_commits=true"/>  
+  <img height="180em" width="350px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglas-devinhouse&layout=compact&langs_count=16&theme=dark"/>  
 </div>
 
 
