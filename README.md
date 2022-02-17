@@ -32,11 +32,11 @@ Eu sou o Douglas, trabalho como Desenvolveodr de Software utilizando a linguagem
 Conceitos fundamentais da WEB, passando por tudo que é necessário para dominar frontend com o React. Nesse módulo também foram abordados conceitos de desenvolvimento ágil com o Kanban board. Tive a oportunidade de desenvolver dois incríveis projetos avaliativos aplicando as melhores técnicas de todos as tecnologias abordadas.
 
 <div style={display: "flex"}>
-  <img heigth="96px" width="96px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-  <img heigth="96px" width="96px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-  <img heigth="96px" width="96px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img heigth="96px" width="96px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-  <img heigth="96px" width="96px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img heigth="56px" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+  <img heigth="56px" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+  <img heigth="56px" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img heigth="56px" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+  <img heigth="56px" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
 
 ##
@@ -45,9 +45,9 @@ Conceitos fundamentais da WEB, passando por tudo que é necessário para dominar
 Aprendendo do C# ao .Net Core e SQL para dominar tudo que é necessário para criar soluções robustas no backend, além de testes e documentação. Também é abordado nesse módulo práticas em metodologias ágeis com a aplicação de mini-sprints semanais.
 
 <div style={display: "flex"}>
-<img heigth="96px" width="96px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-<img heigth="96px" width="96px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-<img heigth="96px" width="96px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img heigth="56px" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<img heigth="56px" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+<img heigth="56px" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </div>
 
 ##
@@ -56,7 +56,7 @@ Aprendendo do C# ao .Net Core e SQL para dominar tudo que é necessário para cr
 Para finalizar, neste último módulo teremos a unificação de frontend e backend com o aprofundamento no ciclo de desenvolvimento completo dominando Docker e RabbitMQ, me oficializando como um Fullstack Developer.
 
 <div style={display: "flex"}>
-  <img height="96px" width="96px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
-  <img height="96px" width="96px" src="https://dyltqmyl993wv.cloudfront.net/assets/stacks/rabbitmq/img/rabbitmq-stack-220x234.png" />
-  <img height="96px" width="96px" src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-scrum-agile-flaticons-flat-flat-icons-6.png"/>
+  <img height="56px" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+  <img height="56px" width="56px" src="https://dyltqmyl993wv.cloudfront.net/assets/stacks/rabbitmq/img/rabbitmq-stack-220x234.png" />
+  <img height="56px" width="56px" src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-scrum-agile-flaticons-flat-flat-icons-6.png"/>
 </div>
