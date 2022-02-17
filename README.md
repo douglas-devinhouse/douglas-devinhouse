@@ -1,6 +1,6 @@
 ## Olá pessoal! 👋
 
-Eu sou o Douglas, trabalho como Desenvolveodr de Software utilizando a linguagem Delphi há 10+ anos. Buscando me atualizar frente ao mercado e estar apto a coloborar com projetos incríveis, encarei o desafio de aprender tecnologias mais modernas. Então me inscrevi em dois processos seletivos, e obtendo êxito em ambos optei pelo programa DEVinHouse da turma SOFTPLAN
+Eu sou o Douglas, trabalho como Desenvolveodr de Software utilizando a linguagem Delphi há 10+ anos. Buscando me atualizar com o mercado e estar apto para coloborar com projetos incríveis, encarei o desafio de aprender tecnologias mais modernas. Então me inscrevi em dois processos seletivos, e obtendo êxito em ambos optei pelo programa DEVinHouse com parceria entre SESI/ACATE e a SOFTPLAN.
 
 
 ## Sobre mim
