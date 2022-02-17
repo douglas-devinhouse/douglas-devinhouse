@@ -1,23 +1,31 @@
 ## Olá pessoal! 👋
 
-Eu sou o Douglas e este é o meu perfil no <strong>Linked</strong><a href="https://www.linkedin.com/in/douglas-maicon-2b464157/" ><img height="16px" width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> 
-</a>. Trabalho como Desenvolveodr de Software utilizando a linguagem Delphi há 10+ anos. Buscando me atualizar frente ao mercado e estar apto a coloborar com projetos incríveis, encarei o desafio de aprender tecnologias mais modernas. Então me inscrevi em dois processos seletivos, e obtendo êxito em ambos optei pelo programa DEVinHouse da turma SOFTPLAN
-
+Eu sou o Douglas, trabalho como Desenvolveodr de Software utilizando a linguagem Delphi há 10+ anos. Buscando me atualizar frente ao mercado e estar apto a coloborar com projetos incríveis, encarei o desafio de aprender tecnologias mais modernas. Então me inscrevi em dois processos seletivos, e obtendo êxito em ambos optei pelo programa DEVinHouse da turma SOFTPLAN
 
 
 ## Sobre mim
 - 👨‍🎓 Sou graduado como Tecnólogo em Gestão da Tecnologia da Informação
 - 📚 Atualmente estou estudando para me tornar um Full Stack Developer
 - 💬 Adoro conversar sobre tecnologias
-- 😄 Pronouns: ele/dele
 
+## Escolha um canal de contato e vamos conversar
+
+<div>
+  <a target="_blank" href="https://www.linkedin.com/in/douglas-maicon-2b464157/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
+  <a href="mailto:douglas.dmn@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a target="_blank" href="https://wa.me/5532991103317"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>  
+  <a target="_blank" href="https://t.me/douglasmaicon"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>   
+  <a target="_blank" href="https://www.instagram.com/invites/contact/?i=1wgvs5ud4skwu&utm_content=11wf84k"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </div>
+
+##
 
 <div>
   <img height="180em" width="350px" align="center" src="https://github-readme-stats.vercel.app/api?username=douglas-devinhouse&show_icons=true&theme=dark&count_private=true&include_all_commits=true"/>  
   <img height="180em" width="350px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglas-devinhouse&layout=compact&langs_count=16&theme=dark"/>  
 </div>
 
+##
 
 
 
